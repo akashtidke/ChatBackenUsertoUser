@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\service\\messagestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\service\\messagestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\controllers\\messagecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\controllers\\messagecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\documentation of tests.text||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\documentation of tests.text||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\websockethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\model\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\model\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|c:\\users\\jarvis\\source\\repos\\realtimechatapplication\\realtimechatapplication\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AF424B-5432-4EA8-83B9-14911D8904A5}|RealTimeChatApplication\\RealTimeChatApplication.csproj|solutionrelative:realtimechatapplication\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Model\\Message.cs",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\Model\\Message.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Model\\Message.cs",
+              "RelativeToolTip": "RealTimeChatApplication\\Model\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:08:10.763Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Documentation of Tests.text",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Documentation of Tests.text",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\Documentation of Tests.text",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Documentation of Tests.text",
+              "RelativeToolTip": "RealTimeChatApplication\\Documentation of Tests.text",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-20T15:47:53.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\appsettings.json",
+              "RelativeToolTip": "RealTimeChatApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T11:13:08.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController .cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Controllers\\MessageController .cs",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\Controllers\\MessageController .cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Controllers\\MessageController .cs",
+              "RelativeToolTip": "RealTimeChatApplication\\Controllers\\MessageController .cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:21:29.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Program.cs",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Program.cs",
+              "RelativeToolTip": "RealTimeChatApplication\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:10:06.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebSocketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\WebSocketHandler.cs",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\WebSocketHandler.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\WebSocketHandler.cs",
+              "RelativeToolTip": "RealTimeChatApplication\\WebSocketHandler.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:02:29.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Model\\Conversation.cs",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\Model\\Conversation.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Model\\Conversation.cs",
+              "RelativeToolTip": "RealTimeChatApplication\\Model\\Conversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:50:18.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageStore.cs",
+              "DocumentMoniker": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Service\\MessageStore.cs",
+              "RelativeDocumentMoniker": "RealTimeChatApplication\\Service\\MessageStore.cs",
+              "ToolTip": "C:\\Users\\Jarvis\\source\\repos\\RealTimeChatApplication\\RealTimeChatApplication\\Service\\MessageStore.cs",
+              "RelativeToolTip": "RealTimeChatApplication\\Service\\MessageStore.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T08:06:03.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
